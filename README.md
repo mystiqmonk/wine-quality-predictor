@@ -131,5 +131,5 @@ project-folder/
 
 ## Clickable Links
 
-- **Streamlit App:** [Your deployment URL]
+- **Streamlit App:** https://wine-quality-predictor-2025aa05049.streamlit.app
 - **Dataset (UCI):** [Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
