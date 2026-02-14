@@ -2,7 +2,7 @@
 
 Interactive Streamlit web application demonstrating 6 machine learning classification models for predicting wine quality (Good vs Bad) from physicochemical properties.
 
-**[🚀 Live App on Streamlit Community Cloud](https://your-app-name.streamlit.app)** *(Replace with your deployment URL)*
+**[🚀 Live App on Streamlit Community Cloud](https://wine-quality-predictor-2025aa05049.streamlit.app)** *(Replace with your deployment URL)*
 
 ---
 
